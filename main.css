@@ -1,0 +1,47 @@
+.container {
+  text-align: center;
+  width: 70%;
+}
+
+.hidden {
+  background-color: grey
+}
+
+.shown {
+  background-color: white
+}
+
+th {
+  border: 5px solid blue;
+  height: 50px;
+  width: 50px;
+  text-align: bottom;
+  font-size: 46px;
+  cursor: pointer;
+}
+
+html {
+  background-color: black
+}
+
+head {
+  background-color: black
+}
+
+h1 {
+  color: blue
+  background-color black
+}
+
+table {
+  background-color: black
+}
+
+body {
+  background-color: black
+}
+
+title {
+  text-align: center;
+  color: red
+}
